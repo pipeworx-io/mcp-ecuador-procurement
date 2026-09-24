@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ecuador-procurement",
   "title": "Ecuador Procurement",
   "description": "Ecuador Government Procurement MCP — SERCOP / Compras Públicas (keyless).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ecuador-procurement",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ecuador-procurement",
