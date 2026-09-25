@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ecuador-procurement",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Ecuador Government Procurement MCP — SERCOP / Compras Públicas (keyless).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9f688c87f9f57225b3fbd004e135d1bf9a75621df0dc08631c779d2a78ea2995",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-791356b51d798eb6a90ee5140ebe42ae7ec1145ea00c1a4e6e65e396d73d0bc0",
+    "sourceCommit": "4fa4c64448be06f4a2ee4cee19f756f3558a7cad"
   }
 }
